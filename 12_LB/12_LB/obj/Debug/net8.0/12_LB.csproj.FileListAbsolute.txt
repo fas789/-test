@@ -1,0 +1,14 @@
+C:\Users\Makar\source\repos\12_LB\12_LB\bin\Debug\net8.0\12_LB.exe
+C:\Users\Makar\source\repos\12_LB\12_LB\bin\Debug\net8.0\12_LB.deps.json
+C:\Users\Makar\source\repos\12_LB\12_LB\bin\Debug\net8.0\12_LB.runtimeconfig.json
+C:\Users\Makar\source\repos\12_LB\12_LB\bin\Debug\net8.0\12_LB.dll
+C:\Users\Makar\source\repos\12_LB\12_LB\bin\Debug\net8.0\12_LB.pdb
+C:\Users\Makar\source\repos\12_LB\12_LB\obj\Debug\net8.0\12_LB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makar\source\repos\12_LB\12_LB\obj\Debug\net8.0\12_LB.AssemblyInfoInputs.cache
+C:\Users\Makar\source\repos\12_LB\12_LB\obj\Debug\net8.0\12_LB.AssemblyInfo.cs
+C:\Users\Makar\source\repos\12_LB\12_LB\obj\Debug\net8.0\12_LB.csproj.CoreCompileInputs.cache
+C:\Users\Makar\source\repos\12_LB\12_LB\obj\Debug\net8.0\12_LB.dll
+C:\Users\Makar\source\repos\12_LB\12_LB\obj\Debug\net8.0\refint\12_LB.dll
+C:\Users\Makar\source\repos\12_LB\12_LB\obj\Debug\net8.0\12_LB.pdb
+C:\Users\Makar\source\repos\12_LB\12_LB\obj\Debug\net8.0\12_LB.genruntimeconfig.cache
+C:\Users\Makar\source\repos\12_LB\12_LB\obj\Debug\net8.0\ref\12_LB.dll
